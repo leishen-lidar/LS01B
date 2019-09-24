@@ -2,9 +2,9 @@
 <package>
   <name>ls01b_v2</name>
   <version>1.0.0</version>
-  <description>Basic ROS support for the Leishen LS01b LIDARs.
-
-</description>
+  <description>
+    Basic ROS support for the Leishen LS01b LIDARs.
+  </description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
